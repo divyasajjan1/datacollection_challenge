@@ -28,4 +28,4 @@ Part 2: [Scrape and Analyze Mars Weather Data](part_2_mars_weather.ipynb)
     - About how many terrestrial (Earth) days exist in a Martian year?
         > From the plot of number of terrestrial days by minimum temperature, the distance from peak to peak is roughly 1425-750 = 675 days. A year on Mars appears to be about 675 days.
 
-5. Exported the dataframe to a csv file - [mars_data_part2.csv](output\mars_data_part2.csv)
+5. Exported the dataframe to a csv file - [mars_data_part2.csv](output/mars_data_part2.csv)
